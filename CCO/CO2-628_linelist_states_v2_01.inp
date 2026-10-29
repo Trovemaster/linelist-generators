@@ -1,0 +1,14 @@
+1
+i-CO2-68_AMES_Cs_0-150.tr                                                                             (trans-in)
+CO2-68_AMES_Cs_0-150.st
+j0contr_descr.chk 
+CO2-TMP                                                                  ( Transition file               
+CO2_628-Ma_v2_01.states                                                    (CO2__UCL-4000_VI.states)( Energy file )                 
+CO2_MARVEL-HITRAN_628_01.txt    
+3  2  1                                                                 (Nmodes Nsym class)
+0.01 0.01 0.01 0.0001
+-1 -1                                                                (enerlow enermax)
+ 100000000
+-1  -1                                                                  (enerlow enermax)
+ 202                                                                    (jmax)
+
