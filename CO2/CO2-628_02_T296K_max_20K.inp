@@ -1,0 +1,51 @@
+Temperature  296
+Range 0.0  20000.0
+
+npoints 2000001
+
+absorption
+max
+
+
+abundance 3.94707e-3
+
+NRAM 10000000
+
+NPROCS 32
+
+verbose 4
+
+output CO2-628_01_T296K_max_20K
+
+NRAM 10000000
+
+NPROCS 32
+
+verbose 4
+
+States  CO2_628-Ma_v1.states
+
+Transitions 
+i-CO2-68_AMES_Cs_0-150.tr_0-1000.tra
+i-CO2-68_AMES_Cs_0-150.tr_1000-2000.tra
+i-CO2-68_AMES_Cs_0-150.tr_2000-3000.tra
+i-CO2-68_AMES_Cs_0-150.tr_3000-4000.tra
+i-CO2-68_AMES_Cs_0-150.tr_4000-5000.tra
+i-CO2-68_AMES_Cs_0-150.tr_5000-6000.tra
+i-CO2-68_AMES_Cs_0-150.tr_6000-7000.tra
+i-CO2-68_AMES_Cs_0-150.tr_7000-8000.tra
+i-CO2-68_AMES_Cs_0-150.tr_8000-9000.tra
+i-CO2-68_AMES_Cs_0-150.tr_9000-10000.tra
+i-CO2-68_AMES_Cs_0-150.tr_10000-11000.tra
+i-CO2-68_AMES_Cs_0-150.tr_11000-12000.tra
+i-CO2-68_AMES_Cs_0-150.tr_12000-13000.tra
+i-CO2-68_AMES_Cs_0-150.tr_13000-14000.tra
+i-CO2-68_AMES_Cs_0-150.tr_14000-15000.tra
+i-CO2-68_AMES_Cs_0-150.tr_15000-16000.tra
+i-CO2-68_AMES_Cs_0-150.tr_16000-17000.tra
+i-CO2-68_AMES_Cs_0-150.tr_17000-18000.tra
+i-CO2-68_AMES_Cs_0-150.tr_18000-19000.tra
+i-CO2-68_AMES_Cs_0-150.tr_19000-20000.tra
+i-CO2-68_AMES_Cs_0-150.tr_20000-21000.tra
+end
+
